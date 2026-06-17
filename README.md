@@ -32,7 +32,12 @@ A small empirical study evaluating LLM-generated code using unit tests, complexi
 
 ### Python Code Smell Detector
 
-A lightweight static analysis tool for detecting maintainability issues in Python code, such as long methods, deep nesting, magic numbers, and broad exception handling.
+A lightweight static analysis tool for detecting maintainability issues in Python code.
+
+- Tech stack: Python, AST, pytest, GitHub Actions
+- Features: code smell detection, folder-level analysis, CSV report generation
+- Detected smells: Long Method, Too Many Parameters, Deep Nesting, Magic Number, Broad Exception
+- Repository: [python-code-smell-detector](https://github.com/Yihao-Xu-777/python-code-smell-detector)
 
 ### GitHub Bug-Fix Mining Study
 
