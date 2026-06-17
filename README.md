@@ -26,9 +26,10 @@ A TypeScript web application that recommends movies based on users' mood and rec
 
 A lightweight static analysis tool for detecting maintainability issues in Python code.
 
-- Tech stack: Python, AST, pytest, GitHub Actions
-- Features: code smell detection, folder-level analysis, CSV report generation
+- Tech stack: Python, AST, pytest, pandas, matplotlib, GitHub Actions
+- Features: code smell detection, folder-level analysis, CSV report generation, empirical evaluation, and result visualization
 - Detected smells: Long Method, Too Many Parameters, Deep Nesting, Magic Number, Broad Exception
+- Evaluation: analyzed three small open-source Python CLI projects and generated project-level summaries and result figures
 - Repository: [python-code-smell-detector](https://github.com/Yihao-Xu-777/python-code-smell-detector)
 
 ## Planned Projects
