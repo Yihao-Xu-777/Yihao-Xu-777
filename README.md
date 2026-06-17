@@ -22,14 +22,6 @@ A TypeScript web application that recommends movies based on users' mood and rec
 - Focus: frontend development, user interaction, mood-based recommendation
 - Repository: `vibe-movie`
 
-## Planned Projects
-
-I am preparing several small empirical software engineering projects:
-
-### LLM Code Quality Evaluation
-
-A small empirical study evaluating LLM-generated code using unit tests, complexity metrics, prompt comparison, and bug taxonomy.
-
 ### Python Code Smell Detector
 
 A lightweight static analysis tool for detecting maintainability issues in Python code.
@@ -38,6 +30,14 @@ A lightweight static analysis tool for detecting maintainability issues in Pytho
 - Features: code smell detection, folder-level analysis, CSV report generation
 - Detected smells: Long Method, Too Many Parameters, Deep Nesting, Magic Number, Broad Exception
 - Repository: [python-code-smell-detector](https://github.com/Yihao-Xu-777/python-code-smell-detector)
+
+## Planned Projects
+
+I am preparing several small empirical software engineering projects:
+
+### LLM Code Quality Evaluation
+
+A small empirical study evaluating LLM-generated code using unit tests, complexity metrics, prompt comparison, and bug taxonomy.
 
 ### GitHub Bug-Fix Mining Study
 
