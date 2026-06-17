@@ -1,6 +1,6 @@
 # Hi, I'm Yihao Xu 👋
 
-I am a Year 1 Software Engineering student interested in Software Engineering, AI for Software Engineering, Software Testing, Static Analysis, and Mining Software Repositories.
+I am interested in Software Engineering, AI for Software Engineering, Software Testing, Static Analysis, and Mining Software Repositories.
 
 I am currently building small and reproducible software engineering projects that combine coding, testing, data analysis, and research-style reporting.
 
@@ -64,4 +64,4 @@ A simple system that analyzes beginner programming assignments and provides feed
 ## Contact
 
 - Email: xuyihao7777@gmail.com
-- GitHub: XUYIAHO-777
+- GitHub: Yihao-Xu-777
