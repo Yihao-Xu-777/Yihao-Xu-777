@@ -47,10 +47,6 @@ A small empirical study evaluating the correctness of LLM-generated Python code 
 
 I am preparing several small empirical software engineering projects:
 
-### LLM Code Quality Evaluation
-
-A small empirical study evaluating LLM-generated code using unit tests, complexity metrics, prompt comparison, and bug taxonomy.
-
 ### GitHub Bug-Fix Mining Study
 
 An empirical analysis of bug-fixing patterns in open-source repositories, including issue closing time, bug-fix commits, changed files, and common keywords.
