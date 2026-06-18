@@ -37,10 +37,10 @@ A lightweight static analysis tool for detecting maintainability issues in Pytho
 A small empirical study evaluating the correctness of LLM-generated Python code for introductory programming tasks.
 
 - Tech stack: Python, pytest, pandas, matplotlib
-- Features: task design, prompt comparison, unit-test-based correctness evaluation, CSV result generation, and visualization
+- Features: task design, prompt comparison, unit-test-based correctness evaluation, CSV result generation, bug labeling, and visualization
 - Prompt strategies: zero-shot prompt and improved prompt
-- Dataset: 5 beginner-level Python tasks and 10 generated code samples
-- Results: generated pass-rate comparison by prompt strategy and by task
+- Dataset: 10 beginner-level Python tasks and 20 generated code samples
+- Results: generated pass-rate comparison by prompt strategy, pass-rate comparison by task, and bug type distribution
 - Repository: [llm-code-quality-evaluation](https://github.com/Yihao-Xu-777/llm-code-quality-evaluation)
 
 ## Planned Projects
