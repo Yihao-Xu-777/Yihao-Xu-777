@@ -32,6 +32,17 @@ A lightweight static analysis tool for detecting maintainability issues in Pytho
 - Evaluation: analyzed three small open-source Python CLI projects and generated project-level summaries and result figures
 - Repository: [python-code-smell-detector](https://github.com/Yihao-Xu-777/python-code-smell-detector)
 
+- ### LLM Code Quality Evaluation
+
+A small empirical study evaluating the correctness of LLM-generated Python code for introductory programming tasks.
+
+- Tech stack: Python, pytest, pandas, matplotlib
+- Features: task design, prompt comparison, unit-test-based correctness evaluation, CSV result generation, and visualization
+- Prompt strategies: zero-shot prompt and improved prompt
+- Dataset: 5 beginner-level Python tasks and 10 generated code samples
+- Results: generated pass-rate comparison by prompt strategy and by task
+- Repository: [llm-code-quality-evaluation](https://github.com/Yihao-Xu-777/llm-code-quality-evaluation)
+
 ## Planned Projects
 
 I am preparing several small empirical software engineering projects:
