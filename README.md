@@ -32,7 +32,7 @@ A lightweight static analysis tool for detecting maintainability issues in Pytho
 - Evaluation: analyzed three small open-source Python CLI projects and generated project-level summaries and result figures
 - Repository: [python-code-smell-detector](https://github.com/Yihao-Xu-777/python-code-smell-detector)
 
-- ### LLM Code Quality Evaluation
+### LLM Code Quality Evaluation
 
 A small empirical study evaluating the correctness of LLM-generated Python code for introductory programming tasks.
 
