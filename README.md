@@ -43,7 +43,7 @@ A small empirical study evaluating the correctness of LLM-generated Python code 
 - Results: generated pass-rate comparison by prompt strategy, pass-rate comparison by task, and bug type distribution
 - Repository: [llm-code-quality-evaluation](https://github.com/Yihao-Xu-777/llm-code-quality-evaluation)
 
-- ### GitHub Bug-Fix Mining Study
+### GitHub Bug-Fix Mining Study
 
 An empirical study of bug-fixing patterns, issue-to-commit links, and changed files in open-source Python repositories.
 
