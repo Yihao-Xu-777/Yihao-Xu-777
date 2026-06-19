@@ -43,13 +43,19 @@ A small empirical study evaluating the correctness of LLM-generated Python code 
 - Results: generated pass-rate comparison by prompt strategy, pass-rate comparison by task, and bug type distribution
 - Repository: [llm-code-quality-evaluation](https://github.com/Yihao-Xu-777/llm-code-quality-evaluation)
 
+- ### GitHub Bug-Fix Mining Study
+
+An empirical study of bug-fixing patterns, issue-to-commit links, and changed files in open-source Python repositories.
+
+- Tech stack: Python, GitHub REST API, pandas, matplotlib
+- Features: bug issue collection, issue event mining, issue-to-commit linking, commit-level change analysis, CSV result generation, and visualization
+- Dataset: closed bug issues from selected open-source Python repositories
+- Results: bug issue volume, average closing time, title keyword frequency, commit link rate, changed files, and file extension distribution
+- Repository: [github-bugfix-mining-study](https://github.com/Yihao-Xu-777/github-bugfix-mining-study)
+
 ## Planned Projects
 
 I am preparing several small empirical software engineering projects:
-
-### GitHub Bug-Fix Mining Study
-
-An empirical analysis of bug-fixing patterns in open-source repositories, including issue closing time, bug-fix commits, changed files, and common keywords.
 
 ### Student Code Feedback System
 
